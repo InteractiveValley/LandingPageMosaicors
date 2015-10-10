@@ -1,0 +1,61 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="MOSAICORS.COM" resolutions="1x" timestamp="1444257497791">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4035253497" ref="index"/>
+    <file name="iefonts_index.css" crc="391654117" ref="index"/>
+    <file name="master_a-master.css" crc="452466649" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u392.php" crc="4221782760" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo.jpg" crc="501817434" ref="index"/>
+    <file name="mosaicorealestatemanagement.png" crc="3801928353" seo="true" ref="index"/>
+    <file name="home.png" crc="17991852" seo="true" ref="index"/>
+    <file name="contacto.png" crc="89393592" seo="true" ref="index"/>
+    <file name="servicios.jpg" crc="314294641" ref="index"/>
+    <file name="boton servicios.png" crc="240322898" ref="index"/>
+    <file name="btn__0000_layer-1.png" crc="148786833" ref="index"/>
+    <file name="btn__0001_layer-2.png" crc="4280449329" ref="index"/>
+    <file name="btn__0002_layer-3.png" crc="189342154" ref="index"/>
+    <file name="btn__0003_layer-4.png" crc="3877708849" ref="index"/>
+    <file name="btn__0004_layer-5.png" crc="4110313096" ref="index"/>
+    <file name="btn__0005_layer-6.png" crc="474336987" ref="index"/>
+    <file name="btn__0006_layer-7.png" crc="277333033" ref="index"/>
+    <file name="btn__0007_layer-8.png" crc="46822899" ref="index"/>
+    <file name="btn__0008_layer-9.png" crc="396467786" ref="index"/>
+    <file name="como__0000_5.png" crc="105419237" seo="true" ref="index"/>
+    <file name="como__0001_6.png" crc="11837126" seo="true" ref="index"/>
+    <file name="como__0002_7.png" crc="413687782" seo="true" ref="index"/>
+    <file name="como__0003_8.png" crc="3817700135" seo="true" ref="index"/>
+    <file name="como__0004_9.png" crc="3907373326" seo="true" ref="index"/>
+    <file name="como__0005_10.png" crc="67824888" seo="true" ref="index"/>
+    <file name="como__0006_11.png" crc="237425983" seo="true" ref="index"/>
+    <file name="como__0007_12.png" crc="176307194" seo="true" ref="index"/>
+    <file name="como__0008_13.png" crc="3816316598" seo="true" ref="index"/>
+    <file name="btn__0009_content.png" crc="358857754" seo="true" ref="index"/>
+    <file name="telefono.png" crc="4257105867" seo="true" ref="index"/>
+    <file name="u406-17.png" crc="33214912" ref="index"/>
+    <file name="u406-17-r.png" crc="406160617" ref="index"/>
+    <file name="u406-17-m.png" crc="406160617" ref="index"/>
+    <file name="u406-17-fs.png" crc="212017591" ref="index"/>
+    <file name="envelope.png" crc="373269864" ref="index"/>
+    <file name="mosaico-real-estate-management-favicon.ico" crc="4163701105" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3997002130" seo="true" mt="1444257495650" redirect="true"/>
+</manifest>
