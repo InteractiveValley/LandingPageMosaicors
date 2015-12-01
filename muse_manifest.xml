@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="MOSAICORS.COM" resolutions="1x" timestamp="1444257497791">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="MOSAICORS.COM" resolutions="1x" timestamp="1448483347667">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4035253497" ref="index"/>
-    <file name="iefonts_index.css" crc="391654117" ref="index"/>
+    <file name="index.css" crc="227485551" ref="index"/>
+    <file name="iefonts_index.css" crc="4054428112" ref="index"/>
     <file name="master_a-master.css" crc="452466649" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -57,5 +57,5 @@
     <file name="envelope.png" crc="373269864" ref="index"/>
     <file name="mosaico-real-estate-management-favicon.ico" crc="4163701105" ref="index"/>
   </folder>
-  <file name="index.html" crc="3997002130" seo="true" mt="1444257495650" redirect="true"/>
+  <file name="index.html" crc="4231556279" seo="true" mt="1448483346146" redirect="true"/>
 </manifest>
